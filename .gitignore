@@ -40,6 +40,13 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+Cypress/e2e/Slots
+
+Cypress/e2e/lobby
+
+Cypress/support
+cypress-visual-screenshots
+Cypress/screenshots
 
 # TypeScript v1 declaration files
 typings/
